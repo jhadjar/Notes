@@ -1,7 +1,8 @@
 
 
-* Split the session to chunks. One hour, 5 min break.
-
+* __Split the session to chunks:__ 
+ * One hour intense work, 5 min break.
+ * Spaced out
 * Create a study area, a place for work and work only.
 
 * More active learning is more effective learning.
@@ -34,11 +35,10 @@
 
 * __Recall vs. Recognition:__
  * Don’t confuse them
- * If you don't know something but get an "aha" when you're shown, it's recognition.
  * If you need a visual cue, it’s recognition.
  * Recall is without any help. Like in a test.
 
-* Sleep better to learn better.
+* __Sleep better to learn better__
  * Everyone has 162 hour weeks. Prioritize.
 
 * __Taking notes is important:__
@@ -46,7 +46,7 @@
  * Fill gaps asking classmate or teacher.
  * Do it while it’s still fresh in your mind.
 
-* Using Textbooks:
+* __Using Textbooks:__
  * SQ3R:
   * Survey.
   * Question
