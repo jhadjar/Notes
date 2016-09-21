@@ -6,7 +6,7 @@
 
 * More active learning is more effective learning.
 
-* Know what you’re learning: fact or concept.
+* __Know what you’re learning: *fact* or *concept*:__
  * Fact: A bone’s name.
  * Concept: What does it do, how does it fit.
  * Concepts stick better than facts.
@@ -14,27 +14,34 @@
  * In your own words or you don’t know it.
  
 
-* Make it meaningful, relate it to what you know
- * Meaningful: relate-able to what you know
- * Meaningless: not.
+* __Make it meaningful:__
+ * Meaningful: you can relate it to what you know
+ * Meaningless: you can't relate it to what you know.
  * If it’s brand new, find a way to relate it.
 
-* Teaching is a great way to learn:
- * Teaching makes your gaps gaping.
- * If you can’t explain it, go understand it.
- * Teach a chair or yourself if you have to.
- * Active Recitation: 80%. Reading: 20%
+* __Teaching is a great way to learn:__
+ * Teaching makes your gaps gaping and staring at you.
+ * If you can’t explain it, you don't really understand it.
+ * Teach a chair or yourself if you have to (it works).
+ * Active Recitation: 80%. Reading: 20% (AR > R).
 
-* Study groups are underutilized.
-* Recall vs. Recognition:
- * Don’t confuse them.
+* __Study groups are underutilized:__
+ * Everyone should pull their weight.
+ * Members should come prepared (required reading)
+ * Members should have specific questions they want answered.
+  * No "I don't understand anything and haven't done any reading, teach me"
+ 
+
+* __Recall vs. Recognition:__
+ * Don’t confuse them
+ * If you don't know something but get an "aha" when you're shown, it's recognition.
  * If you need a visual cue, it’s recognition.
  * Recall is without any help. Like in a test.
 
 * Sleep better to learn better.
  * Everyone has 162 hour weeks. Prioritize.
 
-* Taking notes is important:
+* __Taking notes is important:__
  * Jot down and expand right after lecture.
  * Fill gaps asking classmate or teacher.
  * Do it while it’s still fresh in your mind.
