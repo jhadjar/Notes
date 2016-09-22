@@ -48,8 +48,8 @@
 
 * __Using Textbooks:__
  * SQ3R:
-  * Survey.
-  * Question
-  * Read
-  * Recite.
-  * Review.
+   * Survey
+   * Question
+   * Read
+   * Recite
+   * Review.
