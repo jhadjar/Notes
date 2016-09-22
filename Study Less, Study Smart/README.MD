@@ -39,7 +39,7 @@
  * Recall is without any help. Like in a test.
 
 * __Sleep better to learn better__
- * Everyone has 162 hour weeks. Prioritize.
+ * Everyone has 168 hour weeks. Prioritize.
 
 * __Taking notes is important:__
  * Jot down and expand right after lecture.
