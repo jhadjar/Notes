@@ -11,7 +11,7 @@ You can print the page with "Simplify page" checked to get rid of the overhead.
 
 &nbsp;
 
-* __Split the session to chunks:__ 
+* __Split the session into chunks:__ 
  * One hour intense work, 5 min break.
 * __Create a study area, a place for work and work only__:
  * It doesn't matter if it's a corner in a room.
