@@ -1,6 +1,7 @@
 |      |     |
 |------|-----|
 |Nature: | Talk|
+|Topic   | Cognition, study strategies, etc|
 |Author: | Marty Lobdell|
 |Source: | [Youtube video](https://www.youtube.com/watch?v=IlU-zDU6aQ0)|
 
