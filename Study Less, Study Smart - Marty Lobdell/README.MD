@@ -5,36 +5,42 @@
 |Author: | Marty Lobdell|
 |Source: | [Youtube video](https://www.youtube.com/watch?v=IlU-zDU6aQ0)|
 
+[PDF version](https://github.com/jhadjar/Notes/blob/master/Study%20Less%2C%20Study%20Smart%20-%20Marty%20Lobdell/Study%20Less%2C%20Study%20Smart%20-%20Marty%20Lobdell.pdf) of these notes.
+
+You can print the page with "Simplify page" checked to get rid of the overhead.
 
 &nbsp;
 
 * __Split the session to chunks:__ 
  * One hour intense work, 5 min break.
- * Spaced out
-* Create a study area, a place for work and work only.
+* __Create a study area, a place for work and work only__:
+ * It doesn't matter if it's a corner in a room.
+ * Anecdote: a student used a lamp exclusively for studying and for nothing else.
+ * The rationale: it anchors you to the task at hand because it serves no other purpose.
 
-* More active learning is more effective learning.
+* __More active learning is more effective learning__:
+ * Committed. Involved. Intense. No daydreaming. Give a damn.
 
 * __Know what you’re learning: *fact* or *concept*:__
- * Fact: A bone’s name.
- * Concept: What does it do, how does it fit.
+ * *Fact*: A bone’s name.
+ * *Concep*t: What does the bone do, how does it fit in the human body.
  * Concepts stick better than facts.
  * Get the concepts first, then facts.
  * In your own words or you don’t know it.
 
  * To learn facts, use mnemonics:
-  1. Acronyms. (Roy G. Biv) [Red orange yellow green blue indigo violet]
-  2. Coined Sayings:
-    * **M**y **V**ery **G**ood **M**other **J**ust **S**erved **U**s **N**ine **P**izzas:
-      * **M**ercury **V**enus **E**arth **M**ars **J**upiter **S**aturn **U**ranus '**P**luto']
-    * **O**h **O**h **O**h **T**o **T**aste **A**nd **F**uck **A** **G**irl's **V**irgin **A**ss, **H**oorah:
-      * **O**lfactory **O**ptic **O**culomotor **T**rochlear **T**rigeminal **A**bducens **F**acial **A**coustic **G**lossopharyngeal **V**agus **S**pinal **A**ccessory **H**ypoglossal
-  3. Interacting Images. (NB: Best according to him)
-    Afferent vs. Efferent (nerves) sound the same?
-      * Maximum interference (and confusion) for similar but not the same.
-      * Find ways to *differentiate* them:
-       * "SAME": Sensory Afferent Muscles Efferent.
-       * "RADEO": Right Atrium DEOxygenated. (i.e: left atrium oxygenated blood)
+    1. Acronyms. (Roy G. Biv) [Red orange yellow green blue indigo violet]
+    2. Coined Sayings:
+      * **M**y **V**ery **G**ood **M**other **J**ust **S**erved **U**s **N**ine **P**izzas:
+        * **M**ercury **V**enus **E**arth **M**ars **J**upiter **S**aturn **U**ranus '**P**luto']
+      * **O**h **O**h **O**h **T**o **T**aste **A**nd **F**uck **A** **G**irl's **V**irgin **A**ss, **H**oorah:
+        * **O**lfactory **O**ptic **O**culomotor **T**rochlear **T**rigeminal **A**bducens **F**acial **A**coustic **G**lossopharyngeal **V**agus **S**pinal **A**ccessory **H**ypoglossal
+    3. Interacting Images. (NB: Best according to him)
+      Afferent vs. Efferent (nerves) sound the same?
+        * Maximum interference (and confusion) for similar but not the same.
+        * Find ways to *differentiate* them:
+         * "SAME": Sensory Afferent Muscles Efferent.
+         * "RADEO": Right Atrium DEOxygenated. (i.e: left atrium oxygenated blood)
 
 * __Make it meaningful:__
  * Meaningful: you can relate it to what you know
@@ -55,9 +61,10 @@
  
 
 * __Recall vs. Recognition:__
- * Don’t confuse them
- * If you need a visual cue, it’s recognition.
+ * Don’t confuse Recall and Recognition.
+ * If you need a visual cue, it’s *Recognition*. If you can remember it without help, it's *Recall*.
  * Recall is without any help. Like in a test.
+ * Most students study with the material in front of them, then think they know the material and fail on tests because they couldn't remember. When you study with the material in front of you, it's *Recognition*. You only know what "it's about", you don't really know it. Close the books and test yourself to see if you really know it. (You don't need to look at your ID to remember your name).
 
 * __Sleep better to learn better__
  * Everyone has 168 hour weeks. Prioritize.
