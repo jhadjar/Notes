@@ -16,7 +16,8 @@ You can print the page with "Simplify page" checked to get rid of the overhead.
 * __Create a study area, a place for work and work only__:
  * It doesn't matter if it's a corner in a room.
  * Anecdote: a student used a lamp exclusively for studying and for nothing else.
- * The rationale: it anchors you to the task at hand because it serves no other purpose.
+ * The rationale: it anchors you to the task at hand because it serves no other purpose:
+   * A bed is appropriate for sleep/sex/lying around/resting. You'll slide into one of these studying in your bed.
 
 * __More active learning is more effective learning__:
  * Committed. Involved. Intense. No daydreaming. Give a damn.
