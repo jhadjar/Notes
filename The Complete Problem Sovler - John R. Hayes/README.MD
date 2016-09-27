@@ -36,4 +36,4 @@
 	*	For easy problems: ordered sequence.
 	*	For hard problems: back and forth.
 
-		*	Mnemonic: R2PEEC
+			*	Mnemonic: R2PEEC
