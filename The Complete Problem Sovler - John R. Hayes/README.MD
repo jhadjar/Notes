@@ -50,3 +50,22 @@
 
 
 #### The relations of Internal and External Representations
+
+*	Sometimes you can get away with solving only with internal representation (i.e: simple multiplication)
+
+*	Often, the problem is more difficult and requires an external reresentation. (YMMV)
+
+*	External representations only help if you have an internal representation (you can doodle all you want, if it's empty in there, it doesn't matter).
+
+
+### What do we need to represent in an internal representation?
+
+Four parts to include:
+
+	*	Goal: where we want to be when it's all said and done.
+
+	*	Initial State: where are we.
+
+	*	Operators: the actions that can change state (i.e: that have side effects)
+
+	*	Restrictions on Operators: rules, etc.
