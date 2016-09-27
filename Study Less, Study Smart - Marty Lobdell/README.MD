@@ -55,7 +55,7 @@ You can print the page with "Simplify page" checked to get rid of the overhead.
 ### __Teaching is a great way to learn:__
  * Teaching makes your gaps gaping and staring at you.
  * If you can’t explain it, you don't really understand it.
- * Teach a chair or yourself if you have to (it works).
+ * Teach a chair or yourself if you have to (see [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)).
  * Active Recitation: 80%. Reading: 20% (AR > R).
 
 ### __Study groups are underutilized:__
