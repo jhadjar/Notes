@@ -14,11 +14,11 @@
 ### The 6 aspects of human problem solving?
 
 *	Representation.
-*	Invention.
-*	Search among multiple alternatives.
-*	Knowledge.
+*	Invention (some problems require you to invent)
+*	Search among multiple alternatives (a choice)
+*	Knowledge (what's the ratio between a photon's energy and its momentum?)
 *	Memory.
-*	Decision making
+*	Decision making (factoring in parameters)
 
 		*	Mnemonic: RISK, MD.
 
