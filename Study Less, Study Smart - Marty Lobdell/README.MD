@@ -3,7 +3,7 @@
 |Nature: | Talk|
 |Topic   | Cognition, study strategies, etc|
 |Author: | Marty Lobdell|
-|Source: | <a href="https://www.youtube.com/watch?v=IlU-zDU6aQ0" target="blank"><img src="http://img.youtube.com/vi/IlU-zDU6aQ0/1.jpg"></a>|
+|Source: | <a href="https://www.youtube.com/watch?v=IlU-zDU6aQ0" target="blank"><img src="http://img.youtube.com/vi/IlU-zDU6aQ0/2.jpg"></a>|
 |PDF version|[PDF](https://github.com/jhadjar/Notes/blob/master/Study%20Less%2C%20Study%20Smart%20-%20Marty%20Lobdell/Study%20Less%2C%20Study%20Smart%20-%20Marty%20Lobdell.pdf)|
 
 You can print the page with "Simplify page" checked to get rid of the overhead.
