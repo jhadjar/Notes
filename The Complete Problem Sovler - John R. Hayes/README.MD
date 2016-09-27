@@ -20,7 +20,7 @@
 *	Memory.
 *	Decision making
 
-		*	Menmonic: RISK, MD.
+		*	Mnemonic: RISK, MD.
 
 ## 1. The Process of Representation
 
@@ -35,6 +35,5 @@
 
 	*	For easy problems: ordered sequence.
 	*	For hard problems: back and forth.
-
 
 		*	Mnemonic: R2PEEC
