@@ -20,3 +20,18 @@
 *	Memory.
 *	Decision making
 
+## 1. The Process of Representation
+
+### What's the general problem solving sequence?
+
+*	Finding the problem (recognition).
+*	Representing the problem (get gap's nature).
+*	Planning the solution (method to cross gap).
+*	Carrying out the plan.
+*	Evaluating the solution (how good is the result?).
+*	Consolidating gains (learning from experience)
+
+	*	For easy problems: ordered sequence.
+	*	For hard problems: back and forth.
+
+	
