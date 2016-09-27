@@ -58,7 +58,7 @@
 *	External representations only help if you have an internal representation (you can doodle all you want, if it's empty in there, it doesn't matter).
 
 
-### What do we need to represent in an internal representation?
+#### What do we need to represent in an internal representation?
 
 Four parts to include:
 
