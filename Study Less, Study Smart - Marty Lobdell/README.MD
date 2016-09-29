@@ -37,7 +37,7 @@ You can print the page with "Simplify page" checked to get rid of the overhead.
     1. Acronyms. (Roy G. Biv) [Red orange yellow green blue indigo violet]
     2. Coined Sayings:
       * **M**y **V**ery **G**ood **M**other **J**ust **S**erved **U**s **N**ine **P**izzas:
-        * **M**ercury **V**enus **E**arth **M**ars **J**upiter **S**aturn **U**ranus '**P**luto'
+        * **M**ercury **V**enus **E**arth **M**ars **J**upiter **S**aturn **U**ranus **N**eptune '**P**luto'
       * **O**h **O**h **O**h **T**o **T**ouch **A**nd **F**eel **A** **G**ood **V**elvet,  **A**h, **H**eaven:
         * **O**lfactory **O**ptic **O**culomotor **T**rochlear **T**rigeminal **A**bducens **F**acial **A**coustic **G**lossopharyngeal **V**agus **A**ccessory **H**ypoglossal
     3. Interacting Images. (NB: Best according to him)
