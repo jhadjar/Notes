@@ -1,10 +1,21 @@
-|      |     |
-|------|-----|
-|Nature: | Online course|
-|Topic   | Design|
-|Author: | Don Norman et al.|
-|Source: | <a href="https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101" target="blank"><img src="http://img.youtube.com/vi/fy-J_E55rw0/2.jpg"></a>|
-|Scribe: |Jugurtha Hadjar|
+<table>
+	<tr>
+		<td>Nature</td>
+		<td>Online Course</td>
+	</tr>
+	<tr>
+		<td>Topic</td>
+		<td>Design</td>
+	</tr>
+	<tr>
+		<td>Authors</td>
+		<td>Don Norman et al.</td>
+	</tr>
+	<tr>
+		<td>Source</td>
+		<td><a href="https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101" target="blank"><img src="http://img.youtube.com/vi/fy-J_E55rw0/2.jpg"></a></td>
+	</tr>
+</table>
 
 ## Concepts:
 
