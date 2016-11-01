@@ -13,19 +13,19 @@ Project outline:
 *	Sketch Discoverability (signifiers for)
 *	Sketch Feedback (signifiers for)
 *	Wireframes:
-		*	Show placements of elements on a screen.
+	*	Show placements of elements on a screen.
 *	Flows:
-		*	Sequence of wireframes to form an interaction.
-		*	A "Buy flow" shows sequence of steps to buy.
-
+	*	Sequence of wireframes to form an interaction.
+	*	A "Buy flow" shows sequence of steps to buy.
 *	Seven Questions:
-		*	What do I want to accomplish?
-		*	What are the alternative actions?
-		*	What action can I do now?
-		*	How do I do it?
-		*	What happened?
-		*	What does it mean?
-		*	Have I accomplished my goal?
+
+	*	What do I want to accomplish?
+	*	What are the alternative actions?
+	*	What action can I do now?
+	*	How do I do it?
+	*	What happened?
+	*	What does it mean?
+	*	Have I accomplished my goal?
 
 Tools:
 
