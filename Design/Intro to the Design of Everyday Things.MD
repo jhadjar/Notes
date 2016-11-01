@@ -1,4 +1,6 @@
-Concepts:
+
+
+## Concepts:
 
 *	Affordances.
 *	Signifiers.
@@ -7,7 +9,7 @@ Concepts:
 *	Discoverability (Gulf of Execution)
 *	Feedback (Gulf of Evaluation)
 
-Project outline:
+## Project outline:
 
 *	Sketch Conceptual Model.
 *	Sketch Discoverability (signifiers for)
@@ -27,7 +29,7 @@ Project outline:
 	*	What does it mean?
 	*	Have I accomplished my goal?
 
-Tools:
+## Tools:
 
 *	Hybrid paper/digital tools to animate paper pictures.
 
