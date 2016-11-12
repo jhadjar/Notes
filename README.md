@@ -9,6 +9,10 @@ This is my attempt to organize my thoughts. I spend a lot of time reading but do
 * [Make it Stick - Peter Brown [book]](https://github.com/jhadjar/Notes/blob/master/Cognitive%20Skills/Make%20it%20Stick%20-%20Peter%20Brown.pdf)
 * [Amélioration des Capacités Cognitives [old draft recently changed]](https://github.com/jhadjar/Notes/blob/master/Cognitive%20Skills/Enhancing%20Cognitive%20Abilities/Abilit%C3%A9s%20Cognitives.pdf)
 
+## Programming:
+
+* [JavaScript](https://github.com/jhadjar/Notes/blob/master/Programming/JavaScript/JavaScript%20Notes.MD)
+
 ## Business:
 
 * [Introduction to Marketing [online course]](https://github.com/jhadjar/Notes/blob/master/Business/Introduction%20to%20Marketing%20-%20Notes.pdf)
