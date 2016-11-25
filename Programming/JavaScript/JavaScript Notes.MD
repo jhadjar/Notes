@@ -1,11 +1,22 @@
 ```javascript
 
-// Objects
+
+/*  
+Objects: 
+  - mutability
+  - inheritance
+*/
+
+
+// object, a key-value hash table of sort.
 
 var dictionary = {
-  key1: "value1",
-  key2: "value2",
+  property1: "value1",
+  property2: "value2",
 };
+
+dictionary['property1'] // "value1"
+dictionary.property2 // "value2"
 
 
 function messWithDict(targetDict, key, value) {
@@ -15,10 +26,12 @@ function messWithDict(targetDict, key, value) {
   return dictionary;
 };
 
-
 messWithDict(dictionary, "phone", "00398293");
+// Object {property1: "value1", property2: "value2", phone: "00398293"}
 
-// Arrays
+
+
+// Arrays:
 
 salaries = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
@@ -65,8 +78,8 @@ heights.pop();
 heights.push(170);
 heights.reverse();
 
-// Let's define our own method using the `this` keyword
 
+// Let's create a method called euclidean tied to gpsPoints:
 
 var gridPoints = [
   {
@@ -87,11 +100,10 @@ gridPoints.euclidean = function() {
   return Math.sqrt((dif_x * dif_x) + (dif_y * dif_y));
 };
 
-gridPoints.euclidean()
+gridPoints.euclidean() // 0.806225774829854
 
 
-
-
+// New type. The way I see it: akin to named tuples in Python or struct in C.
 
 function gpsPoint(x, y) {
   this.x = x;
@@ -99,5 +111,16 @@ function gpsPoint(x, y) {
 };
 
 var point1 = new gpsPoint(21, 3.5);
+
+point1 // gpsPoint {x: 21, y: 3.5}
+
+// Going over an object:
+
+var i;
+for (i in point1) {console.log(i + ' ' + point1[i])}  // x 21
+                                                      // y 3.5
+
+// QUESTION: Why doesn't it work with point1.i?
+
 
 ```
