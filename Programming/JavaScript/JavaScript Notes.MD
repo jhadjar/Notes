@@ -109,17 +109,15 @@ function gpsPoint(x, y) {
   this.x = x;
   this.y = y;
 };
-
 var point1 = new gpsPoint(21, 3.5);
-
 point1 // gpsPoint {x: 21, y: 3.5}
+
 
 // Going over an object:
 
 var i;
 for (i in point1) {console.log(i + ' ' + point1[i])}  // x 21
                                                       // y 3.5
-
 // QUESTION: Why doesn't it work with point1.i?
 
 
