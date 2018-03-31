@@ -7,3 +7,4 @@ The file is on GitHub so the list could be augmented and saved (pr/fork).
 
 - [The Making of Prince of Persia - Jordan Mechner](https://www.amazon.com/Making-Prince-Persia-Jordan-Mechner-ebook/dp/B005WUE6Q2), [Author's page](http://www.jordanmechner.com/backstage/journals/)
 - [Masters of Doom - David Kushner](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155)
+- [Founders at Work - Jessical Livingston](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788)
